@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SQLITE", "SQLITE\SQLITE.vcxproj", "{1B11EE2F-885B-4C15-9B0E-4AFF30B1CA0B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BinarneDatoteke", "BinarneDatoteke\BinarneDatoteke.vcxproj", "{0BB9038A-0B5B-4654-B069-488471408F45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B11EE2F-885B-4C15-9B0E-4AFF30B1CA0B}.Debug|x64.ActiveCfg = Debug|x64
+		{1B11EE2F-885B-4C15-9B0E-4AFF30B1CA0B}.Debug|x64.Build.0 = Debug|x64
+		{1B11EE2F-885B-4C15-9B0E-4AFF30B1CA0B}.Debug|x86.ActiveCfg = Debug|Win32
+		{1B11EE2F-885B-4C15-9B0E-4AFF30B1CA0B}.Debug|x86.Build.0 = Debug|Win32
+		{1B11EE2F-885B-4C15-9B0E-4AFF30B1CA0B}.Release|x64.ActiveCfg = Release|x64
+		{1B11EE2F-885B-4C15-9B0E-4AFF30B1CA0B}.Release|x64.Build.0 = Release|x64
+		{1B11EE2F-885B-4C15-9B0E-4AFF30B1CA0B}.Release|x86.ActiveCfg = Release|Win32
+		{1B11EE2F-885B-4C15-9B0E-4AFF30B1CA0B}.Release|x86.Build.0 = Release|Win32
+		{0BB9038A-0B5B-4654-B069-488471408F45}.Debug|x64.ActiveCfg = Debug|x64
+		{0BB9038A-0B5B-4654-B069-488471408F45}.Debug|x64.Build.0 = Debug|x64
+		{0BB9038A-0B5B-4654-B069-488471408F45}.Debug|x86.ActiveCfg = Debug|Win32
+		{0BB9038A-0B5B-4654-B069-488471408F45}.Debug|x86.Build.0 = Debug|Win32
+		{0BB9038A-0B5B-4654-B069-488471408F45}.Release|x64.ActiveCfg = Release|x64
+		{0BB9038A-0B5B-4654-B069-488471408F45}.Release|x64.Build.0 = Release|x64
+		{0BB9038A-0B5B-4654-B069-488471408F45}.Release|x86.ActiveCfg = Release|Win32
+		{0BB9038A-0B5B-4654-B069-488471408F45}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {296963A4-D2FB-49FE-AC70-F623080E0517}
+	EndGlobalSection
+EndGlobal
